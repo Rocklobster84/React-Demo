@@ -64,7 +64,7 @@ a:hover {
 
 /* INTRO SECTION */
 #intro{
-  background-image: url("../images/fort-worth.svg");
+  background-image: url("../public/fort-worth.svg");
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;

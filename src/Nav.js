@@ -5,7 +5,7 @@ class Nav extends Component {
   return (
     <div className="row nav-pad contain">
      <div className="col-lg col-sm logo">
-      <img src="./images/steph-logo.svg" alt="Logo for Stephanie Thompson"/>
+      <img src="steph-logo.svg" alt="Logo for Stephanie Thompson"/>
       <div className="social-block text-center">
        <a href="https://github.com/Rocklobster84" target="_blank" rel="noreferrer noopener">
         <i className="fab fa-github fa-4x social"></i>
